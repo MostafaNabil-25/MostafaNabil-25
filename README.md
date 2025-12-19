@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br><br>Android Developer specialized in Kotlin and Jetpack Compose, passionate about building clean, user-friendly, and scalable mobile applications. Experienced in working with Android core components, Firebase, APIs, and modern UI/UX practices.<br><br>Currently exploring Machine Learning integration in Android apps, with a strong interest in real-world and healthcare-related use cases. I enjoy learning by building projects and continuously improving my skills in app architecture and performance.<br><br>⚡ Always focused on understanding concepts deeply before implementation.
+<br><br>Android Developer specialized in Kotlin and Jetpack Compose, passionate about building clean, user-friendly, and scalable mobile applications. Experienced in working with Android core components, Firebase, APIs, and modern UI/UX practices.<br><br>Currently exploring Machine Learning integration in Android apps, with a strong interest in real-world and healthcare-related use cases. I enjoy learning by building projects and continuously improving my skills in app architecture and performance.<br><br>⚡ Always focused on understanding concepts deeply before implementation.
 
 
 ## 🌐 Socials:
